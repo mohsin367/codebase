@@ -1,0 +1,13 @@
+Index: Testingcode
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>hello this is testing here\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Testingcode b/Testingcode
+--- a/Testingcode	(revision d96c3e0b90fcee1c60cd27c208426af8cbc4cbcb)
++++ b/Testingcode	(date 1627376168904)
+@@ -1,1 +1,1 @@
+-hello this is testing here
++hello this is testing here... A branch

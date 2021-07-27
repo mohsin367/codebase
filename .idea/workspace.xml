@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af0a2def-ff56-4630-baf7-755e05e59fcc" name="Default Changelist" comment="suden" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="B" />
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="B" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/super.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Testingcode" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vulnerable.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1va2jBqhdWlpHcjtLqePxngtRlf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0a2def-ff56-4630-baf7-755e05e59fcc" name="Default Changelist" comment="" />
+      <created>1626786031366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626786031366</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1626786111500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626786111500</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1626790758183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626790758184</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second commit">
+      <created>1626790903935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626790903935</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third commit">
+      <created>1626791398388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626791398388</updated>
+    </task>
+    <task id="LOCAL-00005" summary="undo changes">
+      <created>1626791688454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626791688454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="undo second changes">
+      <created>1626791895165</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626791895165</updated>
+    </task>
+    <task id="LOCAL-00007" summary="secondbranch">
+      <created>1626792458601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626792458601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="swapping branch">
+      <created>1626792532330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626792532330</updated>
+    </task>
+    <task id="LOCAL-00009" summary="swapping branch">
+      <created>1626792669878</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626792669878</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;First commit&quot;&#10;&#10;This reverts commit 95b465e1">
+      <created>1626793388112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626793388112</updated>
+    </task>
+    <task id="LOCAL-00011" summary="remote">
+      <created>1626793679879</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626793679879</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add remote">
+      <created>1627280056810</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627280056810</updated>
+    </task>
+    <task id="LOCAL-00013" summary="remote&amp;local">
+      <created>1627284227924</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627284227924</updated>
+    </task>
+    <task id="LOCAL-00014" summary="remote&amp;local&amp;oly">
+      <created>1627285131612</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627285131612</updated>
+    </task>
+    <task id="LOCAL-00015" summary="remote_branch_test">
+      <created>1627366072088</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627366072088</updated>
+    </task>
+    <task id="LOCAL-00016" summary="remote_branch_test">
+      <created>1627366587217</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1627366587217</updated>
+    </task>
+    <task id="LOCAL-00017" summary="comit">
+      <created>1627366698070</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627366698070</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Test First">
+      <created>1627367110603</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627367110603</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Test second">
+      <created>1627367154226</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627367154226</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Test second">
+      <created>1627369964871</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1627369964871</updated>
+    </task>
+    <task id="LOCAL-00021" summary="First commit">
+      <created>1627370876323</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1627370876323</updated>
+    </task>
+    <task id="LOCAL-00022" summary="second commit">
+      <created>1627370905175</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1627370905176</updated>
+    </task>
+    <task id="LOCAL-00023" summary="second commit">
+      <created>1627372731165</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1627372731165</updated>
+    </task>
+    <task id="LOCAL-00024" summary="A Branch">
+      <created>1627374598249</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1627374598249</updated>
+    </task>
+    <task id="LOCAL-00025" summary="B Branch">
+      <created>1627374671292</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1627374671292</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updated A with B Branch">
+      <created>1627375173793</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1627375173793</updated>
+    </task>
+    <task id="LOCAL-00027" summary="updated B with A Branch">
+      <created>1627375388796</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1627375388796</updated>
+    </task>
+    <task id="LOCAL-00028" summary="reverting commit after push">
+      <created>1627379143039</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1627379143039</updated>
+    </task>
+    <task id="LOCAL-00029" summary="reverting commit after japan push">
+      <created>1627379528396</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1627379528396</updated>
+    </task>
+    <task id="LOCAL-00030" summary="push&amp;delete">
+      <created>1627380274859</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1627380274859</updated>
+    </task>
+    <task id="LOCAL-00031" summary="push&amp;delete">
+      <created>1627380585285</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1627380585285</updated>
+    </task>
+    <task id="LOCAL-00032" summary="undolocalcommit">
+      <created>1627381698532</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1627381698532</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Testing_purpose">
+      <created>1627385784676</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1627385784676</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Testing_purpose_completly">
+      <created>1627388212925</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1627388212925</updated>
+    </task>
+    <task id="LOCAL-00035" summary="cha_commit">
+      <created>1627389566180</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1627389566180</updated>
+    </task>
+    <task id="LOCAL-00036" summary="cha_commit_new">
+      <created>1627390489109</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1627390489109</updated>
+    </task>
+    <task id="LOCAL-00037" summary="suden">
+      <created>1627392108277</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1627392108277</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swapping branch" />
+    <MESSAGE value="Revert &quot;First commit&quot;&#10;&#10;This reverts commit 95b465e1" />
+    <MESSAGE value="remote" />
+    <MESSAGE value="add remote" />
+    <MESSAGE value="remote&amp;local" />
+    <MESSAGE value="remote&amp;local&amp;oly" />
+    <MESSAGE value="remote_branch_test" />
+    <MESSAGE value="comit" />
+    <MESSAGE value="Test First" />
+    <MESSAGE value="Test second" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="A Branch" />
+    <MESSAGE value="B Branch" />
+    <MESSAGE value="updated A with B Branch" />
+    <MESSAGE value="updated B with A Branch" />
+    <MESSAGE value="reverting commit after push" />
+    <MESSAGE value="reverting commit after japan push" />
+    <MESSAGE value="push&amp;delete" />
+    <MESSAGE value="undolocalcommit" />
+    <MESSAGE value="Testing_purpose" />
+    <MESSAGE value="Testing_purpose_completly" />
+    <MESSAGE value="cha_commit" />
+    <MESSAGE value="cha_commit_new" />
+    <MESSAGE value="suden" />
+    <option name="LAST_COMMIT_MESSAGE" value="suden" />
+  </component>
+</project>

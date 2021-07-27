@@ -1,0 +1,13 @@
+Index: Testingcode
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>hello this is testing here... B Branch\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Testingcode b/Testingcode
+--- a/Testingcode	
++++ b/Testingcode	
+@@ -1,1 +1,1 @@
+-hello this is testing here... B Branch
++hello this is testing here
